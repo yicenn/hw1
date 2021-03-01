@@ -8,5 +8,5 @@ k=int(input("請輸入第五個數:"))
 
 A=[x,y,z,r,k]
 
-print(myStatistics.myMean(A)) 
+print("5個數字的平均為",myStatistics.myMean(A)) 
 
